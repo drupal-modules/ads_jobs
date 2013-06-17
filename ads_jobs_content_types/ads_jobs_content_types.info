@@ -1,7 +1,7 @@
 name = Content Types for Ads Jobs
 description = Provides Content Types for Ads distribution
 core = 7.x
-package = Ads Features
+package = ADS Content Types
 php = 5.2.4
 version = 7.x-1.0-alpha1
 project = ads_jobs_content_types
