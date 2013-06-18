@@ -1,0 +1,9 @@
+name = Ads Jobs
+description = Provides common Jobs features for Ads distribution
+core = 7.x
+package = ADS Jobs
+version = 7.x-1.0
+project = ads_jobs
+dependencies[] = ads_taxonomy
+features[features_api][] = api:1
+files[] = ads_jobs.module
