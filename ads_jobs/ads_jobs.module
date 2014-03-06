@@ -9,6 +9,18 @@
  */
 function ads_jobs_ads_taxonomy_files() {
   return array(
+    drupal_get_path('module', 'ads_jobs') . '/taxonomies/Career status.csv',
     drupal_get_path('module', 'ads_jobs') . '/taxonomies/Categories.csv',
+    drupal_get_path('module', 'ads_jobs') . '/taxonomies/Degree level.csv',
+    drupal_get_path('module', 'ads_jobs') . '/taxonomies/Employment type.csv',
+    drupal_get_path('module', 'ads_jobs') . '/taxonomies/Fields of study.csv',
+    drupal_get_path('module', 'ads_jobs') . '/taxonomies/General skills.csv',
+    drupal_get_path('module', 'ads_jobs') . '/taxonomies/Geography.csv',
+    drupal_get_path('module', 'ads_jobs') . '/taxonomies/Industry fields.csv',
+    drupal_get_path('module', 'ads_jobs') . '/taxonomies/IT skills.csv',
+    drupal_get_path('module', 'ads_jobs') . '/taxonomies/Languages.csv',
+    drupal_get_path('module', 'ads_jobs') . '/taxonomies/Occupational fields.csv',
+    drupal_get_path('module', 'ads_jobs') . '/taxonomies/Years of experience.csv',
+    drupal_get_path('module', 'ads_jobs') . '/taxonomies/Job application rejection reason.csv',
   );
 }
