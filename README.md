@@ -1,4 +1,4 @@
-ads_animals
+ads_jobs
 ===========
 
-Provides common Animal features for ADS Drupal distribution.
+Provides common recruitment features for ADS Drupal distribution.
